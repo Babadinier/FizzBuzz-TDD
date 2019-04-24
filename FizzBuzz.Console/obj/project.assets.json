@@ -207,6 +207,16 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "FizzBuzz.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/FizzBuzz.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FizzBuzz.Services.dll": {}
+        }
       }
     }
   },
@@ -678,10 +688,16 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "FizzBuzz.Services/1.0.0": {
+      "type": "project",
+      "path": "../FizzBuzz.Services/FizzBuzz.Services.csproj",
+      "msbuildProject": "../FizzBuzz.Services/FizzBuzz.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "FizzBuzz.Services >= 1.0.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -692,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Services\\FizzBuzz.Services.csproj",
-      "projectName": "FizzBuzz.Services",
-      "projectPath": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Services\\FizzBuzz.Services.csproj",
+      "projectUniqueName": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Console\\FizzBuzz.Console.csproj",
+      "projectName": "FizzBuzz.Console",
+      "projectPath": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Console\\FizzBuzz.Console.csproj",
       "packagesPath": "C:\\Users\\infodev5\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Services\\obj\\",
+      "outputPath": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -714,7 +730,11 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Services\\FizzBuzz.Services.csproj": {
+              "projectPath": "C:\\Users\\infodev5\\Documents\\Visual Studio 2017\\Projects\\FizzBuzz\\FizzBuzz.Services\\FizzBuzz.Services.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

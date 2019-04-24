@@ -1,0 +1,17 @@
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Tests.deps.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Tests.runtimeconfig.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Tests.runtimeconfig.dev.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Tests.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Tests.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Services.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.Services.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.csprojAssemblyReference.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.csproj.CoreCompileInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.AssemblyInfoInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.AssemblyInfo.cs
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.csproj.CopyComplete
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.Tests.pdb
