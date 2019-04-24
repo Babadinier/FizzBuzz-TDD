@@ -1,0 +1,14 @@
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\FizzBuzzServices.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\bin\Debug\netcoreapp2.2\FizzBuzzServices.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CopyComplete
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache

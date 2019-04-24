@@ -1,0 +1,8 @@
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\bin\Debug\netcoreapp2.2\FizzBuzz.Services.deps.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\bin\Debug\netcoreapp2.2\FizzBuzz.Services.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\bin\Debug\netcoreapp2.2\FizzBuzz.Services.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\obj\Debug\netcoreapp2.2\FizzBuzz.Services.csproj.CoreCompileInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\obj\Debug\netcoreapp2.2\FizzBuzz.Services.AssemblyInfoInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\obj\Debug\netcoreapp2.2\FizzBuzz.Services.AssemblyInfo.cs
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\obj\Debug\netcoreapp2.2\FizzBuzz.Services.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz.Services\obj\Debug\netcoreapp2.2\FizzBuzz.Services.pdb

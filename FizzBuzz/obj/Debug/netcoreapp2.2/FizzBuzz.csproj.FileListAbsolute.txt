@@ -1,0 +1,17 @@
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.deps.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.runtimeconfig.dev.json
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csprojAssemblyReference.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfoInputs.cache
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.AssemblyInfo.cs
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.pdb
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\obj\Debug\netcoreapp2.2\FizzBuzz.csproj.CopyComplete
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzzServices.dll
+C:\Users\infodev5\Documents\Visual Studio 2017\Projects\FizzBuzz\FizzBuzz\bin\Debug\netcoreapp2.2\FizzBuzzServices.pdb
